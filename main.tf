@@ -1,6 +1,6 @@
 #Provider Block
 provider "aws" {
     profile = "default"
-    region  = "us-east-1"
+    region  = "eu-west-1" //Ireland because there are no ec2s there yet
 }
   
